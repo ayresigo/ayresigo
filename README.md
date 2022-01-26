@@ -1,4 +1,21 @@
-### Hi there 👋
+## <p align="center"> 👋 Hello word! I'm Igor Ayres (@ayres + igo)! 🌎</p>
+
+
+
+<p > 💻 Fullstack Developer </p>
+<p > 🗺 I'm from Rio de Janeiro-RJ, Brazil. </p>
+<p> 🌱 I’m currently learning Solidity and Websockets. </p>
+<p > 📘 I’m a student of Computer Science on Estácio. </p>
+
+
+
+
+
+
+
+
+
+  
 
 <!--
 **ayresigo/ayresigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
