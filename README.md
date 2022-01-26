@@ -1,12 +1,12 @@
 ## <p align="center"> 👋 Hello word! I'm Igor F. Ayres! 🌎</p>
 
 
-##### <p> 💻 Fullstack and Blockchain Developer </p>
-##### <p> 🗺 I'm from Rio de Janeiro-RJ, Brazil. </p>
-##### <p> 🌱 I’m currently learning Solidity and Websockets. </p>
-##### <p> 📘 I’m a student of Computer Science on Estácio. </p>
-##### <p> 🔭 I’m currently working on a Web 3.0 game called Cryminals.</p>
-##### <p> ⚡ Fun fact: ayresigo stands for Ayres (surname) + Igo[r]</p>
+##### <p align="center"> 💻 Fullstack and Blockchain Developer </p>
+##### <p align="center"> 🗺 I'm from Rio de Janeiro-RJ, Brazil. </p>
+##### <p align="center"> 🌱 I’m currently learning Solidity and Websockets. </p>
+##### <p align="center"> 📘 I’m a student of Computer Science on Estácio. </p>
+##### <p align="center"> 🔭 I’m currently working on a Web 3.0 game called Cryminals.</p>
+##### <p align="center"> ⚡ Fun fact: ayresigo stands for Ayres (surname) + Igo[r]</p>
   
   
   <br />
